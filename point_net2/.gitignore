@@ -1,0 +1,4 @@
+ModelNet40/
+ply_file/
+metadata_modelnet40.csv
+__pycache__/

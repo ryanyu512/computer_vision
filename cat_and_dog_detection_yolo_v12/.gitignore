@@ -1,0 +1,5 @@
+cat_and_dog_det_data
+det_model/best_det_model.h5
+det_model/loss_history.npy
+checkpoint
+.ipynb_checkpoints
