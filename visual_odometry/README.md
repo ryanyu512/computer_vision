@@ -2,11 +2,11 @@
 
 mono (Straight)            |  stereo (Straight)
 :-------------------------:|:-------------------------:
-![image](https://github.com/ryanyu512/visual_odometry/assets/19774686/75a5c96d-bddf-4ba6-a7a6-2a6e112dd91d) | ![image](https://github.com/ryanyu512/visual_odometry/assets/19774686/03c0fe3c-236d-4833-bb01-394dff76afd0)
+![image]![b1324992-6cd6-4f53-bbb7-8f7451f468de](https://github.com/ryanyu512/computer_vision/assets/19774686/f6607237-4573-443b-b1f7-55135fecd4b6) | ![22ba5ec0-f383-4b1e-9dd6-1852b1b91239](https://github.com/ryanyu512/computer_vision/assets/19774686/c9536dcd-ee0b-4b2d-be9a-dfcbbaa2c0b7)
 mono (Curve 1)            |  stereo (Curve 1)
-![image](https://github.com/ryanyu512/visual_odometry/assets/19774686/2165ef7d-e4ff-4b63-984f-6ede72fae18b)  |  ![image](https://github.com/ryanyu512/visual_odometry/assets/19774686/362a08aa-b27a-4885-a31e-003e889e8288)
+![92a6dd81-d80c-409d-8328-b5feea4809cd](https://github.com/ryanyu512/computer_vision/assets/19774686/6c5a1ab6-5f85-4089-8b90-f3f1413fa87f) | ![049932d4-5d90-47b3-bc3d-1bfd37134a90](https://github.com/ryanyu512/computer_vision/assets/19774686/89771993-3f01-4ac2-8b4f-b25f6fb9f51c)
 mono (Curve 2)            |  stereo (Curve 2)
-![image](https://github.com/ryanyu512/visual_odometry/assets/19774686/f591133e-0d91-4d13-a0d9-11cc6380e5df) | ![image](https://github.com/ryanyu512/visual_odometry/assets/19774686/4f49d1c9-0737-49de-90ec-0a9619277f88)
+![5633312b-9aa7-470a-b807-746626a4957e](https://github.com/ryanyu512/computer_vision/assets/19774686/6b3e7391-1d66-4c4e-81bf-7df954580cbe)|![1165e8ef-c5c9-4f4b-9172-e872938df200](https://github.com/ryanyu512/computer_vision/assets/19774686/07e3f5a6-ac52-4feb-a80d-858bb5532467)
 
 
 A very small set of KITTI data is used for proof of concept. The above is the result of mono visual odometry vs stereo visual odometry. 
